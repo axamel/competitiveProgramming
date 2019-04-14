@@ -12,14 +12,6 @@ __indice__
 
 5. [tipos de implementacion](#tiposDeImplementacion)
 
-6. [clasicos](#clasicos)
-
-7. [problemas en jueces](#problemasEnJueces)
-
-8. [reconstruccion](#reconstruccion)
-
-9. [reduccion de memoria](#reduccionDeMemoria)
-
 <div id='concepto' />
 
 ### concepto
