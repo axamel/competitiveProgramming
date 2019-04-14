@@ -14,10 +14,11 @@ __indice__
 
 6. [clasicos](#clasicos)
 
-7. [reconstruccion](#reconstruccion)
+7. [problemas en jueces](#problemasEnJueces)
 
-8. [reduccion de memoria](#reduccionDeMemoria)
+8. [reconstruccion](#reconstruccion)
 
+9. [reduccion de memoria](#reduccionDeMemoria)
 
 <div id='concepto' />
 
