@@ -4,6 +4,21 @@ __indice__
 
 1. [concepto](#concepto)
 
+2. [caracteristicas](#caracteristicas)
+
+3. [estructura optima](#estructuraOptima)
+
+4. [ejemplos](#ejemplos)
+
+5. [tipos de implementacion](#tiposDeImplementacion)
+
+6. [clasicos](#clasicos)
+
+7. [reconstruccion](#reconstruccion)
+
+8. [reduccion de memoria](#reduccionDeMemoria)
+
+
 <div id='concepto' />
 
 ### concepto
